@@ -1,16 +1,33 @@
-# youtube-clone
-# yt-clone
+# Not-Youtube
 
-### youtube clone made with react, redux, firebase and Youtube API. 
+### Not-Youtube is a youtube clone made with react, redux, firebase and Youtube API. 
 
 
+![](https://i.ytimg.com/vi/Mos5QJAje28/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCFbVeOdpHjPmjEkLBCOpvPJC5eMg)
 
 ## Installation
 
-## For desgning you need to install these package
+```bash
+npm run start
+```
 
-npm install react-bootstrap bootstrap@5.1.3
+## The project is deployed on Firebase : 
+[Not-utube](https://not-yt.web.app/)
 
-npm install react-icons
+## Project tutorial on YouTube : 
+  [Tutorial of YouTube Clone](https://youtu.be/Mos5QJAje28)
 
-npm install node-sass@4.14.1
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+--- 
+## Contact
+
+Sumit Dey- [code.sumax@gmail.com](mailto:code.sumax@gmail.com)
+
+Youtube Channel: [https://www.youtube.com/c/BackbenchCoder](https://www.youtube.com/c/BackbenchCoder)
+
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
