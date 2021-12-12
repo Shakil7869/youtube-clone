@@ -8,16 +8,6 @@
 npm run start
 ```
 
-## The project is deployed on Firebase : 
-[Not-utube](https://not-yt.web.app/)
-
-## Project tutorial on YouTube : 
-  [Tutorial of YouTube Clone](https://youtu.be/Mos5QJAje28)
-
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
 --- 
 ## Contact
 
